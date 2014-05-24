@@ -1,0 +1,31 @@
+body {
+  font-family: calibri;
+  font-size: 11px;
+}
+
+input, select, textarea {
+	font-family: calibri;
+	font-size: 11px;
+}
+
+#mycalendar { background-color:#E5E5E5; }
+#mycalendar .general { background-color: #FFFFFF; }
+#mycalendar .othermonth { background-color: #EEEEEE; color: #AAAAAA; }
+#mycalendar .header { background-color: #880000; color: #E5E5E5; }
+#mycalendar .today { background-color: #FFFFCC; }
+#mycalendar .bg { background-color: #E5E5E5; }
+#mycalendar .select { background-color: #FFCC99; }
+#mycalendar .othermonth a:link { text-decoration : none; font-family: calibri; color: #880000; }
+#mycalendar .othermonth a:visited { text-decoration : none; font-family: calibri; color: #880000; }
+#mycalendar .othermonth a:hover { text-decoration : underline; font-family: calibri; color: #FFFFFF; }
+#mycalendar a:link { text-decoration : none; font-weight:bold; font-family: calibri; color: #880000; }
+#mycalendar a:visited { text-decoration : none; font-weight:bold; font-family: calibri; color: #880000; }
+#mycalendar a:hover { text-decoration : underline; font-weight:bold; font-family: calibri; color: #FF0000; }
+#mycalendar .btn { background-color: #880000; border: 0px solid #000000; }
+#mycalendar .btn a:link { text-decoration : none; font-family: calibri; color: #FFFFFF; }
+#mycalendar .btn a:visited { text-decoration : none; font-family: calibri; color: #000000; }
+#mycalendar .btn a:hover { text-decoration : underline; font-family: calibri; color: #FF0000; }
+#mycalendar .closeme { padding: 0px 3px 2px 0px; }
+#mycalendar .disabledate { color: #669999; }
+
+.tcday, .tcmonth, .tcyear { font-size: 11px; }
