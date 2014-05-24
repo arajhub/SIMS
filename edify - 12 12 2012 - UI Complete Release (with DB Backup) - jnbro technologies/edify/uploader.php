@@ -129,5 +129,6 @@ echo vmenu($designation);
 		    <div class="footer">
             Powered By ChrisTel Info Solutions (P) Ltd.
         </div>
+        
 </body>
 </html>
